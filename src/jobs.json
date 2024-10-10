@@ -1,0 +1,90 @@
+{
+    "Jobs" : [
+    {
+        "id":1,
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": 
+        "We are seeking a talented front-end developer to join our team in boston, MA. The ideal candidate will have strong skills in HTML,CSS and JAVASCRIPT with experience working with modern javascript frameworks such as React or Angular",
+        "location" : "Boston, MA",
+        "Salary" : "$70k - $80K",
+        "company" : {
+            "name" : "New Tek solutions",
+            "description": "New Tek solution is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high quality products and services to our clients while fostering a collaborative and innovative work environment",
+            "contactEmail": "contact@techsolutions.com",
+            "contactPhone" : "555-555-5555"
+        }
+    },
+{
+    "id":2,
+    "title": "Front-End Engineer {React & Redux}",
+    "type": "Full-Time",
+   "location": "Miami, FL",
+   "description" : "Join our team as a front-end developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable ",
+   "Salary":"$70k - $80K",
+   "company":{
+    "name" : "Veneer Solutions",
+    "description" : "Veneer solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients",
+    "contactEmail": "dahmiedamilola@gmail.com",
+    "contactPhone":"555-555-5555"
+   }
+},
+{
+    "id":3,
+    "title": "React.js developer",
+    "type": "Full-Time",
+    "location": "Brooklyn, NY",
+    "description": "Are you passionate about front-end development ? join our vibrant team in brooklyn, NY and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued",
+    "Salary":"$70k - $80K",
+    "company":{
+        "name":"Dolor cloud ",
+        "description": "Dolor cloud is a leading technology company specializing in digital solutions for businesses of all sizes",
+        "contactEmail": "Famefemi@gmail.com",
+         "contactPhone":"555-555-5555"
+    }
+},
+{
+    "id":4,
+    "title": "React Front-End developer",
+    "type": "Part-Time",
+    "location": "Maitama, Abuja,",
+    "description": "Come and explore the hidden talents that are buried deep within you",
+    "Salary":"$30k - $40K",
+    "company":{
+        "name":"Brain box",
+        "description": "Brain box company is a company that helps people think farther than they have ever imagined",
+           "contactEmail": "iammartins@gmail.com",
+         "contactPhone":"555-555-5555"
+    }
+},
+
+{
+    "id":5,
+    "title": "Full stack react developer",
+    "type": "Part-Time",
+    "location": "oshodi, lagos,",
+    "description": "Exciting opportunity for Full stack developers to build elegant and scalable websites",
+    "Salary":"$30k - $40K",
+    "company":{
+        "name":"devs nation",
+        "description": "Devs Nation is a rapidly growin technology company specializing in e-commerce solutions ",
+           "contactEmail": "adeolaoffion@gmail.com",
+         "contactPhone":"555-555-5555"
+    }
+},
+{
+    "id":6,
+    "title": "React Native developer",
+    "type": "Full-Time",
+    "location": "kubwa, Abuja,",
+    "description": "Join our team as a react native developer in kubwa abuja where we succeed mandatorily",
+    "Salary":"$70k - $80K",
+    "company":{
+        "name":"CEO",
+        "description": "CEO  company is a company leading in software development, technology, and digital marketing ",
+           "contactEmail": "paulclenment@gmail.com",
+         "contactPhone":"555-555-5555"
+    }
+}
+]
+}
